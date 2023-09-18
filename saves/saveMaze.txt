@@ -1,0 +1,32 @@
+﻿NOT THAT LEVEL AGAIN
+xxxxxxxxxxxxxxVxxxxxxxxxxxxxx
+xooooooooooooxVxoooooooooooox
+xoxxxxoxxxxxoxVxoxxxxxoxxxxox
+xOxxxxoxxxxxoxVxoxxxxxoxxxxOx
+xoxxxxoxxxxxoxxxoxxxxxoxxxxox
+xooooooooooooo              x
+xoxxxxoxxoxxxxxxxxxoxxoxxxx x
+xoxxxxoxxoxxxxxxxxxoxxoxxxx x
+xooooooxxooooxxxooooxx      x
+xxxxxxoxxxxxVxxxVxxxxx xxxxxx
+VVVVVxoxxxxxVxxxVxxxxx xVVVVV
+VVVVVxoxxVVVVVVVVVVVxx xVVVVV
+VVVVVxoxxVxxxx-xxxxVxx xVVVVV
+xxxxxxoxxVxPVVVVVBxVxx xxxxxx
+VVVVVVoVVVxVVVVVVVxVVV VVVVVV
+xxxxxxoxxVxCVVVVVIxVxx xxxxxx
+VVVVVxoxxVxxxxxxxxxVxx xVVVVV
+VVVVVxoxxVVVVVbVVVVVxx xVVVVV
+VVVVVxoxxVxxxxxxxxxVxx xVVVVV
+xxxxxxoxxVxxxxxxxxxVxx xxxxxx
+xooooooooooooxxxoooooo      x
+xoxxxxoxxxxxoxxxoxxxxx xxxx x
+xoxxxxoxxxxxoxxxoxxxxx xxxx x
+xOooxxooooooooH        xx   x
+xxxoxxoxxoxxxxxxxxxoxx xx xxx
+xxxoxxoxxoxxxxxxxxxoxx xx xxx
+xooooooxxooooxxxooooxx    oox
+xoxxxxxxxxxxoxxxoxxxxxxxxxxox
+xoxxxxxxxxxxoxxxoxxxxxxxxxxox
+xooooooooooooooooooooooooooox
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
